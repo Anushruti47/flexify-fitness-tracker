@@ -1,0 +1,36 @@
+.about1{
+    /* background: purple; */
+    padding: 80px;
+    text-align: justify;
+}
+/* .about1 h1{
+    padding: 30px;
+    text-align: center;
+} */
+.about1 h2{
+    text-align: center;
+    padding-bottom: 10px;
+}
+/* .vision{
+    background: #F6F5F8;
+    padding: 50px;
+} */
+.about2{
+    /* background: ; */
+    padding: 40px;
+    padding-bottom: 60px;
+    padding-top: 0px;
+}
+
+.vision{
+    /* background: rgb(210, 137, 210); */
+    background: #EED9FE;
+    text-align: justify;
+    margin:20px;
+    padding:50px;
+    border-radius: 25px;
+}
+.vision h4{
+    text-align: center;
+    padding-bottom: 10px;
+}
